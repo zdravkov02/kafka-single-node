@@ -1,0 +1,1 @@
+Kafka single node. 1 broker with monitoring and prometeus kafka-exporter and Grafana for visualization purposes.
